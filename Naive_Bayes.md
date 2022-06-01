@@ -1,4 +1,6 @@
 # Tugas-Akhir-Naive-Bayes---Praktikum-AI
+# Kita akan membantu pemilik showroom mobil untuk mengiklankan produk SUV nya di media sosial. Ia ingin agar iklannya ditempatkan di zona di mana semakin banyak orang yang memutuskan untuk membeli produknya. Kita akan membantunya dengan mengolah data pelanggan yang sudah diberikan ke kita.
+# Codingan ini saya jalankan menggunakan Google Colab
 
 # Mengimpor library yang diperlukan
 import numpy as np
