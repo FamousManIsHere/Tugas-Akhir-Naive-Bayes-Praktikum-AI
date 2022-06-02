@@ -1,4 +1,8 @@
-# Mengimpor library yang diperlukan
+# Kita akan membantu pemilik showroom mobil untuk mengiklankan produk SUV nya di media sosial.  
+# Kita akan membantunya dengan mengolah data pelanggan yang sudah diberikan ke kita.
+# Ia ingin agar iklannya ditempatkan di zona di mana semakin banyak orang yang memutuskan untuk membeli produknya.
+
+# Mengimpor library yang diperlukan 
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
